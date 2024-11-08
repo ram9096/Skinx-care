@@ -21,7 +21,7 @@ export const hightlightsSlides = [
       "No more appointments",
       "No more que's",
     ],
-    video: '../assets/Video-7.mp4',
+    video: '../assets/video-7.mp4',
     videoDuration: 20,
   },
   {
