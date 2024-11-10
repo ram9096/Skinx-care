@@ -6,13 +6,13 @@ export const hightlightsSlides = [
       "We build the most  ",
       "trustable model SkinX.",
     ],
-    video: '../assets/face-2.mp4',
+    video: './assets/face-2.mp4',
     videoDuration: 8,
   },
   {
     id: 2,
     textLists: ["Unknown Brands Make you White.", "But it nearly Kill's"],
-    video: '../assets/face-1.mp4',
+    video: './assets/face-1.mp4',
     videoDuration: 25,
   },
   {
@@ -21,13 +21,13 @@ export const hightlightsSlides = [
       "No more appointments",
       "No more que's",
     ],
-    video: '../assets/video-7.mp4',
+    video: './assets/video-7.mp4',
     videoDuration: 20,
   },
   {
     id: 4,
     textLists: ["Ai has become", "more innovative"],
-    video: '../assets/Video-6.mp4',
+    video: './assets/Video-6.mp4',
     videoDuration: 20,
   },
 ];
