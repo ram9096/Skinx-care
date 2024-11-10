@@ -15,7 +15,7 @@ const Highlights = () => {
             <div className='mb-12 md:flex w-full items-end justify-between'>
                 <h1 id='title' className='section-heading'>Get the hightlights.</h1>
                 <div className='flex flex-wrap items-end gap-5'>
-                    <p className='linke'><a href="/assets/team-video.MP4">Watch the Journey </a><img src="../assets/watch.svg" className='ml-2' alt="" /></p>
+                    <p className='linke'><a href="./assets/team-video.MP4">Watch the Journey </a><img src="./assets/watch.svg" className='ml-2' alt="" /></p>
 
                 </div>
             </div>
